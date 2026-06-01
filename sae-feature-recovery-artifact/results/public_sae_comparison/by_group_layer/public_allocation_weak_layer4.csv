@@ -1,0 +1,11 @@
+source,condition,condition_label,direction_group,layer,public_sae_id,concept_id,concept,allocation_score,best_public_latent
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,0,exacerbate,0.35426223278045654,2968
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,1,mitigate,0.3196146786212921,14137
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,2,ameliorate,0.3207930326461792,11910
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,3,Redis,0.4169234335422516,4754
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,4,Kubernetes,0.30579236149787903,24484
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,5,arbitrage,0.3222242295742035,2093
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,6,PostgreSQL,0.3552088141441345,8402
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,7,metaphor about memory loss,0.38033923506736755,7254
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,8,telomerase,0.25526025891304016,6752
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,9,regret about financial decisions,0.35413873195648193,13824

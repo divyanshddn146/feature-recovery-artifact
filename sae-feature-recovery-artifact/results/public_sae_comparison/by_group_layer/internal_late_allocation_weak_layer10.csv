@@ -1,0 +1,241 @@
+source,condition,condition_label,direction_group,layer,seed,signal_scale,sae_latents,concept_id,concept,allocation_score
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,0,exacerbate,0.1462285757064819
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,1,mitigate,0.1459713518619537
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,2,ameliorate,0.16815083920955656
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,3,Redis,0.13528654277324675
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,4,Kubernetes,0.15639420151710504
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,5,arbitrage,0.16404077708721157
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,6,PostgreSQL,0.12980238795280452
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,7,metaphor about memory loss,0.15087205469608303
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,8,telomerase,0.13919961154460905
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,2048,9,regret about financial decisions,0.15420533716678614
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,0,exacerbate,0.1779352188110351
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,1,mitigate,0.17754476964473723
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,2,ameliorate,0.16784697175025937
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,3,Redis,0.1901282340288162
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,4,Kubernetes,0.1815963685512542
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,5,arbitrage,0.16644829511642453
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,6,PostgreSQL,0.1332403272390365
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,7,metaphor about memory loss,0.18237607479095455
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,8,telomerase,0.1378702104091644
+internal,topK20,Your TopK mixed,weak,10,0,0.05,2048,9,regret about financial decisions,0.2205559909343719
+internal,delta,Your paired delta,weak,10,0,0.05,2048,0,exacerbate,0.5018992245197296
+internal,delta,Your paired delta,weak,10,0,0.05,2048,1,mitigate,0.47978276014328003
+internal,delta,Your paired delta,weak,10,0,0.05,2048,2,ameliorate,0.5279834151268006
+internal,delta,Your paired delta,weak,10,0,0.05,2048,3,Redis,0.5676279306411743
+internal,delta,Your paired delta,weak,10,0,0.05,2048,4,Kubernetes,0.652625322341919
+internal,delta,Your paired delta,weak,10,0,0.05,2048,5,arbitrage,0.492239898443222
+internal,delta,Your paired delta,weak,10,0,0.05,2048,6,PostgreSQL,0.6751787662506104
+internal,delta,Your paired delta,weak,10,0,0.05,2048,7,metaphor about memory loss,0.5242377877235412
+internal,delta,Your paired delta,weak,10,0,0.05,2048,8,telomerase,0.4996428906917572
+internal,delta,Your paired delta,weak,10,0,0.05,2048,9,regret about financial decisions,0.5771415948867797
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,0,exacerbate,0.16896857917308808
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,1,mitigate,0.16400027871131892
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,2,ameliorate,0.1838917434215545
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,3,Redis,0.1474452674388885
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,4,Kubernetes,0.1529875725507736
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,5,arbitrage,0.17066563665866846
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,6,PostgreSQL,0.15018502473831175
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,7,metaphor about memory loss,0.15929439067840573
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,8,telomerase,0.14869509041309356
+internal,rand_pair,Your random-pair,weak,10,0,0.05,2048,9,regret about financial decisions,0.17978115081787105
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,0,exacerbate,0.16680290102958675
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,1,mitigate,0.1603714376688003
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,2,ameliorate,0.21234709322452544
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,3,Redis,0.18936230838298793
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,4,Kubernetes,0.1879958093166351
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,5,arbitrage,0.16072344779968256
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,6,PostgreSQL,0.14171606302261347
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,7,metaphor about memory loss,0.18101094663143152
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,8,telomerase,0.1514414221048355
+internal,std_L1,Your L1 mixed,weak,10,0,0.05,512,9,regret about financial decisions,0.1807338505983352
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,0,exacerbate,0.17376773059368128
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,1,mitigate,0.20423398315906524
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,2,ameliorate,0.20326078534126277
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,3,Redis,0.15226354897022243
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,4,Kubernetes,0.13198819756507868
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,5,arbitrage,0.1326022624969482
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,6,PostgreSQL,0.137691929936409
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,7,metaphor about memory loss,0.1659175455570221
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,8,telomerase,0.16124430894851685
+internal,topK20,Your TopK mixed,weak,10,0,0.05,512,9,regret about financial decisions,0.20210260152816767
+internal,delta,Your paired delta,weak,10,0,0.05,512,0,exacerbate,0.942332124710083
+internal,delta,Your paired delta,weak,10,0,0.05,512,1,mitigate,0.9500217795372009
+internal,delta,Your paired delta,weak,10,0,0.05,512,2,ameliorate,0.9636807084083557
+internal,delta,Your paired delta,weak,10,0,0.05,512,3,Redis,0.9655456423759461
+internal,delta,Your paired delta,weak,10,0,0.05,512,4,Kubernetes,0.9057190418243408
+internal,delta,Your paired delta,weak,10,0,0.05,512,5,arbitrage,0.9619781374931335
+internal,delta,Your paired delta,weak,10,0,0.05,512,6,PostgreSQL,0.9510326862335206
+internal,delta,Your paired delta,weak,10,0,0.05,512,7,metaphor about memory loss,0.9694145560264588
+internal,delta,Your paired delta,weak,10,0,0.05,512,8,telomerase,0.9185266852378845
+internal,delta,Your paired delta,weak,10,0,0.05,512,9,regret about financial decisions,0.9533774733543396
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,0,exacerbate,0.2590594232082367
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,1,mitigate,0.1552552163600921
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,2,ameliorate,0.19472763538360593
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,3,Redis,0.1811857163906097
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,4,Kubernetes,0.2014118820428848
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,5,arbitrage,0.17835233509540555
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,6,PostgreSQL,0.13567762672901149
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,7,metaphor about memory loss,0.19563985764980313
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,8,telomerase,0.14752750396728512
+internal,rand_pair,Your random-pair,weak,10,0,0.05,512,9,regret about financial decisions,0.20974707007408142
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,0,exacerbate,0.14540590345859522
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,1,mitigate,0.15089175105094904
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,2,ameliorate,0.16605922281742092
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,3,Redis,0.13057579994201657
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,4,Kubernetes,0.1532705187797546
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,5,arbitrage,0.13704457283020016
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,6,PostgreSQL,0.14244802892208094
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,7,metaphor about memory loss,0.15823348760604855
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,8,telomerase,0.1232686340808868
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,2048,9,regret about financial decisions,0.18735261261463163
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,0,exacerbate,0.2232860296964645
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,1,mitigate,0.14275600910186764
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,2,ameliorate,0.1834421724081039
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,3,Redis,0.1898287951946258
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,4,Kubernetes,0.1517606705427169
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,5,arbitrage,0.1611355572938919
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,6,PostgreSQL,0.1377077251672744
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,7,metaphor about memory loss,0.2054477840662002
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,8,telomerase,0.1926363259553909
+internal,topK20,Your TopK mixed,weak,10,1,0.05,2048,9,regret about financial decisions,0.2896400153636932
+internal,delta,Your paired delta,weak,10,1,0.05,2048,0,exacerbate,0.543265950679779
+internal,delta,Your paired delta,weak,10,1,0.05,2048,1,mitigate,0.517893624305725
+internal,delta,Your paired delta,weak,10,1,0.05,2048,2,ameliorate,0.5441102862358094
+internal,delta,Your paired delta,weak,10,1,0.05,2048,3,Redis,0.5419343709945679
+internal,delta,Your paired delta,weak,10,1,0.05,2048,4,Kubernetes,0.4816821813583374
+internal,delta,Your paired delta,weak,10,1,0.05,2048,5,arbitrage,0.5012784361839294
+internal,delta,Your paired delta,weak,10,1,0.05,2048,6,PostgreSQL,0.5313900470733642
+internal,delta,Your paired delta,weak,10,1,0.05,2048,7,metaphor about memory loss,0.5554903745651245
+internal,delta,Your paired delta,weak,10,1,0.05,2048,8,telomerase,0.5368868589401246
+internal,delta,Your paired delta,weak,10,1,0.05,2048,9,regret about financial decisions,0.5470598816871644
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,0,exacerbate,0.15696585476398467
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,1,mitigate,0.1433060437440872
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,2,ameliorate,0.20586230754852292
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,3,Redis,0.1627092987298965
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,4,Kubernetes,0.14060822427272796
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,5,arbitrage,0.15730335712432858
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,6,PostgreSQL,0.13932000100612635
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,7,metaphor about memory loss,0.17658003866672511
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,8,telomerase,0.1661770343780517
+internal,rand_pair,Your random-pair,weak,10,1,0.05,2048,9,regret about financial decisions,0.1643687486648559
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,0,exacerbate,0.17153098583221432
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,1,mitigate,0.15867587924003596
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,2,ameliorate,0.20660453438758847
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,3,Redis,0.17153973579406737
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,4,Kubernetes,0.14802347123622892
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,5,arbitrage,0.17859340310096739
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,6,PostgreSQL,0.14629964828491207
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,7,metaphor about memory loss,0.1927869856357574
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,8,telomerase,0.1529960751533508
+internal,std_L1,Your L1 mixed,weak,10,1,0.05,512,9,regret about financial decisions,0.17618575990200042
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,0,exacerbate,0.16683254837989803
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,1,mitigate,0.16382964551448817
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,2,ameliorate,0.16912146210670467
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,3,Redis,0.17648352384567256
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,4,Kubernetes,0.17860771417617793
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,5,arbitrage,0.16803150475025175
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,6,PostgreSQL,0.14071420431137083
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,7,metaphor about memory loss,0.18722430169582363
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,8,telomerase,0.1370924204587936
+internal,topK20,Your TopK mixed,weak,10,1,0.05,512,9,regret about financial decisions,0.21460744440555574
+internal,delta,Your paired delta,weak,10,1,0.05,512,0,exacerbate,0.9748496532440185
+internal,delta,Your paired delta,weak,10,1,0.05,512,1,mitigate,0.964776360988617
+internal,delta,Your paired delta,weak,10,1,0.05,512,2,ameliorate,0.8840934276580811
+internal,delta,Your paired delta,weak,10,1,0.05,512,3,Redis,0.9852525234222412
+internal,delta,Your paired delta,weak,10,1,0.05,512,4,Kubernetes,0.9655941247940063
+internal,delta,Your paired delta,weak,10,1,0.05,512,5,arbitrage,0.9693039536476136
+internal,delta,Your paired delta,weak,10,1,0.05,512,6,PostgreSQL,0.9586257100105285
+internal,delta,Your paired delta,weak,10,1,0.05,512,7,metaphor about memory loss,0.9467553496360779
+internal,delta,Your paired delta,weak,10,1,0.05,512,8,telomerase,0.93384929895401
+internal,delta,Your paired delta,weak,10,1,0.05,512,9,regret about financial decisions,0.9314998030662537
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,0,exacerbate,0.1712317913770675
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,1,mitigate,0.14630618691444391
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,2,ameliorate,0.19954919517040248
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,3,Redis,0.15869351327419276
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,4,Kubernetes,0.1635222941637039
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,5,arbitrage,0.17824752628803248
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,6,PostgreSQL,0.12600413560867305
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,7,metaphor about memory loss,0.1989693462848663
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,8,telomerase,0.15747236013412474
+internal,rand_pair,Your random-pair,weak,10,1,0.05,512,9,regret about financial decisions,0.17447399497032162
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,0,exacerbate,0.1519647032022476
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,1,mitigate,0.15230425894260408
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,2,ameliorate,0.18382709622383117
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,3,Redis,0.1782139718532562
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,4,Kubernetes,0.16402110457420344
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,5,arbitrage,0.18871648013591763
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,6,PostgreSQL,0.12930638194084165
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,7,metaphor about memory loss,0.17072514891624446
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,8,telomerase,0.1348169386386871
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,2048,9,regret about financial decisions,0.19264056682586667
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,0,exacerbate,0.178328201174736
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,1,mitigate,0.17857185006141663
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,2,ameliorate,0.21169044673442836
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,3,Redis,0.1867664039134979
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,4,Kubernetes,0.20743048489093777
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,5,arbitrage,0.17763007581233975
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,6,PostgreSQL,0.1494207084178924
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,7,metaphor about memory loss,0.1943154484033584
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,8,telomerase,0.1731526911258697
+internal,topK20,Your TopK mixed,weak,10,2,0.05,2048,9,regret about financial decisions,0.2562014758586883
+internal,delta,Your paired delta,weak,10,2,0.05,2048,0,exacerbate,0.5860065698623658
+internal,delta,Your paired delta,weak,10,2,0.05,2048,1,mitigate,0.4872401535511017
+internal,delta,Your paired delta,weak,10,2,0.05,2048,2,ameliorate,0.49551079869270326
+internal,delta,Your paired delta,weak,10,2,0.05,2048,3,Redis,0.5495406746864319
+internal,delta,Your paired delta,weak,10,2,0.05,2048,4,Kubernetes,0.6093482613563538
+internal,delta,Your paired delta,weak,10,2,0.05,2048,5,arbitrage,0.494066447019577
+internal,delta,Your paired delta,weak,10,2,0.05,2048,6,PostgreSQL,0.5597334146499634
+internal,delta,Your paired delta,weak,10,2,0.05,2048,7,metaphor about memory loss,0.43143182396888735
+internal,delta,Your paired delta,weak,10,2,0.05,2048,8,telomerase,0.5436337709426879
+internal,delta,Your paired delta,weak,10,2,0.05,2048,9,regret about financial decisions,0.5015340209007263
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,0,exacerbate,0.15390258133411402
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,1,mitigate,0.1538004487752914
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,2,ameliorate,0.1733379930257797
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,3,Redis,0.15247057676315304
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,4,Kubernetes,0.16539111733436582
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,5,arbitrage,0.17555567026138302
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,6,PostgreSQL,0.13316376507282252
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,7,metaphor about memory loss,0.18985389173030848
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,8,telomerase,0.1306575924158096
+internal,rand_pair,Your random-pair,weak,10,2,0.05,2048,9,regret about financial decisions,0.15492318272590633
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,0,exacerbate,0.15763404369354245
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,1,mitigate,0.13055317699909205
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,2,ameliorate,0.16901857256889338
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,3,Redis,0.15070984065532683
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,4,Kubernetes,0.16707635521888728
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,5,arbitrage,0.16367919445037837
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,6,PostgreSQL,0.1325970113277435
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,7,metaphor about memory loss,0.2210905909538269
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,8,telomerase,0.14065518975257868
+internal,std_L1,Your L1 mixed,weak,10,2,0.05,512,9,regret about financial decisions,0.1974678754806518
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,0,exacerbate,0.18176936507225033
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,1,mitigate,0.12551388293504712
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,2,ameliorate,0.19250171482563017
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,3,Redis,0.1571723788976669
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,4,Kubernetes,0.1541014909744262
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,5,arbitrage,0.14861559867858884
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,6,PostgreSQL,0.15355184972286223
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,7,metaphor about memory loss,0.19595654606819152
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,8,telomerase,0.19489233493804928
+internal,topK20,Your TopK mixed,weak,10,2,0.05,512,9,regret about financial decisions,0.19725010395050047
+internal,delta,Your paired delta,weak,10,2,0.05,512,0,exacerbate,0.9724369287490845
+internal,delta,Your paired delta,weak,10,2,0.05,512,1,mitigate,0.9319985270500183
+internal,delta,Your paired delta,weak,10,2,0.05,512,2,ameliorate,0.9143082022666931
+internal,delta,Your paired delta,weak,10,2,0.05,512,3,Redis,0.9328353881835938
+internal,delta,Your paired delta,weak,10,2,0.05,512,4,Kubernetes,0.9339669942855835
+internal,delta,Your paired delta,weak,10,2,0.05,512,5,arbitrage,0.9735946774482727
+internal,delta,Your paired delta,weak,10,2,0.05,512,6,PostgreSQL,0.966827929019928
+internal,delta,Your paired delta,weak,10,2,0.05,512,7,metaphor about memory loss,0.9852514028549194
+internal,delta,Your paired delta,weak,10,2,0.05,512,8,telomerase,0.988414466381073
+internal,delta,Your paired delta,weak,10,2,0.05,512,9,regret about financial decisions,0.9852662205696106
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,0,exacerbate,0.18923705816268915
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,1,mitigate,0.17901107966899868
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,2,ameliorate,0.191148567199707
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,3,Redis,0.1837420672178268
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,4,Kubernetes,0.18062472641468047
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,5,arbitrage,0.16157771646976465
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,6,PostgreSQL,0.18697802424430843
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,7,metaphor about memory loss,0.18752341270446773
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,8,telomerase,0.15217489600181575
+internal,rand_pair,Your random-pair,weak,10,2,0.05,512,9,regret about financial decisions,0.16420336365699764

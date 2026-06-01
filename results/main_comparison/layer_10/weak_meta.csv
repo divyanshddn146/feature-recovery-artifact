@@ -1,0 +1,11 @@
+direction_group,concept_id,target,baseline,domain,snr,raw_direction_norm
+weak,0,exacerbate,worsen,subtle,3.327,35.76708221435547
+weak,1,mitigate,reduce,subtle,3.282,51.96413040161133
+weak,2,ameliorate,improve,subtle,3.392,60.84486770629883
+weak,3,Redis,data store,software_rare,3.405,67.25117492675781
+weak,4,Kubernetes,container system,software_rare,3.478,70.5035171508789
+weak,5,arbitrage,price difference trade,finance_rare,3.554,70.25100708007812
+weak,6,PostgreSQL,database system,software_rare,3.47,59.016963958740234
+weak,7,metaphor about memory loss,metaphor,compound,3.409,61.50401306152344
+weak,8,telomerase,chromosome enzyme,medical_rare,3.544,69.8288345336914
+weak,9,regret about financial decisions,regret,compound,3.359,47.15203094482422

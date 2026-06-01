@@ -1,0 +1,11 @@
+direction_group,concept_id,target,baseline,domain,snr,raw_direction_norm
+random,0,random_0,none,random,0.0,1.0
+random,1,random_1,none,random,0.0,1.0
+random,2,random_2,none,random,0.0,1.0
+random,3,random_3,none,random,0.0,1.0
+random,4,random_4,none,random,0.0,1.0
+random,5,random_5,none,random,0.0,1.0
+random,6,random_6,none,random,0.0,1.0
+random,7,random_7,none,random,0.0,1.0
+random,8,random_8,none,random,0.0,1.0
+random,9,random_9,none,random,0.0,1.0

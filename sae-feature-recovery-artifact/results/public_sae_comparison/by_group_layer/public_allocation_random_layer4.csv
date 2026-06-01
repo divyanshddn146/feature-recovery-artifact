@@ -1,0 +1,11 @@
+source,condition,condition_label,direction_group,layer,public_sae_id,concept_id,concept,allocation_score,best_public_latent
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,0,random_0,0.15127916634082794,21738
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,1,random_1,0.14644591510295868,17379
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,2,random_2,0.1699812114238739,22937
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,3,random_3,0.140154629945755,12105
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,4,random_4,0.1548762321472168,22631
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,5,random_5,0.1467593014240265,2007
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,6,random_6,0.1418832242488861,6242
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,7,random_7,0.13902318477630615,13700
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,8,random_8,0.1394423395395279,23040
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,9,random_9,0.15032002329826355,21771

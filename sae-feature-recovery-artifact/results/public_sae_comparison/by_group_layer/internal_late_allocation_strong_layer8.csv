@@ -1,0 +1,145 @@
+source,condition,condition_label,direction_group,layer,seed,signal_scale,sae_latents,concept_id,concept,allocation_score
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,2048,0,sports,0.1759959161281585
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,2048,1,technology,0.2892812609672546
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,2048,2,science,0.22926175594329828
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,2048,3,music,0.22160711586475368
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,2048,4,weather,0.22375432252883912
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,2048,5,food,0.17454855740070344
+internal,topK20,Your TopK mixed,strong,8,0,0.05,2048,0,sports,0.20741504728794094
+internal,topK20,Your TopK mixed,strong,8,0,0.05,2048,1,technology,0.2713131904602051
+internal,topK20,Your TopK mixed,strong,8,0,0.05,2048,2,science,0.27698460817337034
+internal,topK20,Your TopK mixed,strong,8,0,0.05,2048,3,music,0.2662154734134674
+internal,topK20,Your TopK mixed,strong,8,0,0.05,2048,4,weather,0.3100388348102569
+internal,topK20,Your TopK mixed,strong,8,0,0.05,2048,5,food,0.21690948307514185
+internal,delta,Your paired delta,strong,8,0,0.05,2048,0,sports,0.6773370146751404
+internal,delta,Your paired delta,strong,8,0,0.05,2048,1,technology,0.640748941898346
+internal,delta,Your paired delta,strong,8,0,0.05,2048,2,science,0.6342982769012451
+internal,delta,Your paired delta,strong,8,0,0.05,2048,3,music,0.6559890747070313
+internal,delta,Your paired delta,strong,8,0,0.05,2048,4,weather,0.6143102288246155
+internal,delta,Your paired delta,strong,8,0,0.05,2048,5,food,0.5586156249046326
+internal,rand_pair,Your random-pair,strong,8,0,0.05,2048,0,sports,0.19981456398963923
+internal,rand_pair,Your random-pair,strong,8,0,0.05,2048,1,technology,0.19358355700969693
+internal,rand_pair,Your random-pair,strong,8,0,0.05,2048,2,science,0.21280402839183807
+internal,rand_pair,Your random-pair,strong,8,0,0.05,2048,3,music,0.21005718111991878
+internal,rand_pair,Your random-pair,strong,8,0,0.05,2048,4,weather,0.24317564368247985
+internal,rand_pair,Your random-pair,strong,8,0,0.05,2048,5,food,0.17212923169136043
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,512,0,sports,0.2693990111351013
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,512,1,technology,0.26039294004440305
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,512,2,science,0.28684054613113397
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,512,3,music,0.3578804016113281
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,512,4,weather,0.273246043920517
+internal,std_L1,Your L1 mixed,strong,8,0,0.05,512,5,food,0.20124377906322474
+internal,topK20,Your TopK mixed,strong,8,0,0.05,512,0,sports,0.28358789086341857
+internal,topK20,Your TopK mixed,strong,8,0,0.05,512,1,technology,0.4287525713443756
+internal,topK20,Your TopK mixed,strong,8,0,0.05,512,2,science,0.36954749226570127
+internal,topK20,Your TopK mixed,strong,8,0,0.05,512,3,music,0.1962913423776626
+internal,topK20,Your TopK mixed,strong,8,0,0.05,512,4,weather,0.40458904504776
+internal,topK20,Your TopK mixed,strong,8,0,0.05,512,5,food,0.2029002159833908
+internal,delta,Your paired delta,strong,8,0,0.05,512,0,sports,0.982408082485199
+internal,delta,Your paired delta,strong,8,0,0.05,512,1,technology,0.9650213718414307
+internal,delta,Your paired delta,strong,8,0,0.05,512,2,science,0.9935803532600402
+internal,delta,Your paired delta,strong,8,0,0.05,512,3,music,0.9629138350486756
+internal,delta,Your paired delta,strong,8,0,0.05,512,4,weather,0.9864865660667419
+internal,delta,Your paired delta,strong,8,0,0.05,512,5,food,0.9757078409194946
+internal,rand_pair,Your random-pair,strong,8,0,0.05,512,0,sports,0.22717955410480495
+internal,rand_pair,Your random-pair,strong,8,0,0.05,512,1,technology,0.23268404901027678
+internal,rand_pair,Your random-pair,strong,8,0,0.05,512,2,science,0.2515832185745239
+internal,rand_pair,Your random-pair,strong,8,0,0.05,512,3,music,0.24037679433822629
+internal,rand_pair,Your random-pair,strong,8,0,0.05,512,4,weather,0.25070008039474484
+internal,rand_pair,Your random-pair,strong,8,0,0.05,512,5,food,0.19659723341464994
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,2048,0,sports,0.22108069062232966
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,2048,1,technology,0.2497813999652862
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,2048,2,science,0.20286128520965577
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,2048,3,music,0.25241238474845884
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,2048,4,weather,0.205709359049797
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,2048,5,food,0.21525504291057582
+internal,topK20,Your TopK mixed,strong,8,1,0.05,2048,0,sports,0.2297645360231399
+internal,topK20,Your TopK mixed,strong,8,1,0.05,2048,1,technology,0.23170180320739742
+internal,topK20,Your TopK mixed,strong,8,1,0.05,2048,2,science,0.26126819849014277
+internal,topK20,Your TopK mixed,strong,8,1,0.05,2048,3,music,0.3171081840991974
+internal,topK20,Your TopK mixed,strong,8,1,0.05,2048,4,weather,0.2845404744148254
+internal,topK20,Your TopK mixed,strong,8,1,0.05,2048,5,food,0.20323461592197414
+internal,delta,Your paired delta,strong,8,1,0.05,2048,0,sports,0.6427936434745789
+internal,delta,Your paired delta,strong,8,1,0.05,2048,1,technology,0.6389082193374633
+internal,delta,Your paired delta,strong,8,1,0.05,2048,2,science,0.6519177913665771
+internal,delta,Your paired delta,strong,8,1,0.05,2048,3,music,0.6855774044990539
+internal,delta,Your paired delta,strong,8,1,0.05,2048,4,weather,0.6902905464172363
+internal,delta,Your paired delta,strong,8,1,0.05,2048,5,food,0.7690346479415894
+internal,rand_pair,Your random-pair,strong,8,1,0.05,2048,0,sports,0.20052644908428188
+internal,rand_pair,Your random-pair,strong,8,1,0.05,2048,1,technology,0.22934859991073603
+internal,rand_pair,Your random-pair,strong,8,1,0.05,2048,2,science,0.1815680086612701
+internal,rand_pair,Your random-pair,strong,8,1,0.05,2048,3,music,0.19843599200248713
+internal,rand_pair,Your random-pair,strong,8,1,0.05,2048,4,weather,0.19768761098384852
+internal,rand_pair,Your random-pair,strong,8,1,0.05,2048,5,food,0.15690818130969997
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,512,0,sports,0.246122333407402
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,512,1,technology,0.30558175444602964
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,512,2,science,0.3869269251823425
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,512,3,music,0.3058466255664825
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,512,4,weather,0.259247875213623
+internal,std_L1,Your L1 mixed,strong,8,1,0.05,512,5,food,0.1883629769086837
+internal,topK20,Your TopK mixed,strong,8,1,0.05,512,0,sports,0.30646774768829343
+internal,topK20,Your TopK mixed,strong,8,1,0.05,512,1,technology,0.36073503494262693
+internal,topK20,Your TopK mixed,strong,8,1,0.05,512,2,science,0.34003310203552245
+internal,topK20,Your TopK mixed,strong,8,1,0.05,512,3,music,0.2566547244787216
+internal,topK20,Your TopK mixed,strong,8,1,0.05,512,4,weather,0.248818889260292
+internal,topK20,Your TopK mixed,strong,8,1,0.05,512,5,food,0.1763138025999069
+internal,delta,Your paired delta,strong,8,1,0.05,512,0,sports,0.9942443013191223
+internal,delta,Your paired delta,strong,8,1,0.05,512,1,technology,0.982779598236084
+internal,delta,Your paired delta,strong,8,1,0.05,512,2,science,0.9856877446174621
+internal,delta,Your paired delta,strong,8,1,0.05,512,3,music,0.9613389253616333
+internal,delta,Your paired delta,strong,8,1,0.05,512,4,weather,0.9867551684379577
+internal,delta,Your paired delta,strong,8,1,0.05,512,5,food,0.9712334990501403
+internal,rand_pair,Your random-pair,strong,8,1,0.05,512,0,sports,0.21983073651790613
+internal,rand_pair,Your random-pair,strong,8,1,0.05,512,1,technology,0.25224769115448
+internal,rand_pair,Your random-pair,strong,8,1,0.05,512,2,science,0.26191745400428773
+internal,rand_pair,Your random-pair,strong,8,1,0.05,512,3,music,0.2345908254384994
+internal,rand_pair,Your random-pair,strong,8,1,0.05,512,4,weather,0.27284944057464594
+internal,rand_pair,Your random-pair,strong,8,1,0.05,512,5,food,0.18692167997360226
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,2048,0,sports,0.20654817819595334
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,2048,1,technology,0.22170619964599605
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,2048,2,science,0.2344013780355453
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,2048,3,music,0.2170654326677322
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,2048,4,weather,0.24449778795242305
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,2048,5,food,0.18479618132114406
+internal,topK20,Your TopK mixed,strong,8,2,0.05,2048,0,sports,0.2534412145614624
+internal,topK20,Your TopK mixed,strong,8,2,0.05,2048,1,technology,0.3148959517478943
+internal,topK20,Your TopK mixed,strong,8,2,0.05,2048,2,science,0.2445272654294967
+internal,topK20,Your TopK mixed,strong,8,2,0.05,2048,3,music,0.3416149020195007
+internal,topK20,Your TopK mixed,strong,8,2,0.05,2048,4,weather,0.2762316465377807
+internal,topK20,Your TopK mixed,strong,8,2,0.05,2048,5,food,0.19675301313400265
+internal,delta,Your paired delta,strong,8,2,0.05,2048,0,sports,0.7133684992790222
+internal,delta,Your paired delta,strong,8,2,0.05,2048,1,technology,0.5381439447402954
+internal,delta,Your paired delta,strong,8,2,0.05,2048,2,science,0.5806890010833741
+internal,delta,Your paired delta,strong,8,2,0.05,2048,3,music,0.7042681455612183
+internal,delta,Your paired delta,strong,8,2,0.05,2048,4,weather,0.684191882610321
+internal,delta,Your paired delta,strong,8,2,0.05,2048,5,food,0.7782353639602662
+internal,rand_pair,Your random-pair,strong,8,2,0.05,2048,0,sports,0.21276364326477046
+internal,rand_pair,Your random-pair,strong,8,2,0.05,2048,1,technology,0.21827346384525295
+internal,rand_pair,Your random-pair,strong,8,2,0.05,2048,2,science,0.19190010130405422
+internal,rand_pair,Your random-pair,strong,8,2,0.05,2048,3,music,0.1829082906246185
+internal,rand_pair,Your random-pair,strong,8,2,0.05,2048,4,weather,0.2110477268695831
+internal,rand_pair,Your random-pair,strong,8,2,0.05,2048,5,food,0.16960306167602537
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,512,0,sports,0.2582239151000977
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,512,1,technology,0.2654290020465851
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,512,2,science,0.29450619220733637
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,512,3,music,0.32386929392814634
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,512,4,weather,0.28381903767585753
+internal,std_L1,Your L1 mixed,strong,8,2,0.05,512,5,food,0.22406103610992428
+internal,topK20,Your TopK mixed,strong,8,2,0.05,512,0,sports,0.2700085341930389
+internal,topK20,Your TopK mixed,strong,8,2,0.05,512,1,technology,0.3416282534599304
+internal,topK20,Your TopK mixed,strong,8,2,0.05,512,2,science,0.27893704175949097
+internal,topK20,Your TopK mixed,strong,8,2,0.05,512,3,music,0.2891942858695984
+internal,topK20,Your TopK mixed,strong,8,2,0.05,512,4,weather,0.42051215171813966
+internal,topK20,Your TopK mixed,strong,8,2,0.05,512,5,food,0.15949836075305934
+internal,delta,Your paired delta,strong,8,2,0.05,512,0,sports,0.9866560220718383
+internal,delta,Your paired delta,strong,8,2,0.05,512,1,technology,0.9817170977592469
+internal,delta,Your paired delta,strong,8,2,0.05,512,2,science,0.9923192143440247
+internal,delta,Your paired delta,strong,8,2,0.05,512,3,music,0.993578827381134
+internal,delta,Your paired delta,strong,8,2,0.05,512,4,weather,0.9928943037986755
+internal,delta,Your paired delta,strong,8,2,0.05,512,5,food,0.9880856513977051
+internal,rand_pair,Your random-pair,strong,8,2,0.05,512,0,sports,0.25803765654563904
+internal,rand_pair,Your random-pair,strong,8,2,0.05,512,1,technology,0.24192061424255368
+internal,rand_pair,Your random-pair,strong,8,2,0.05,512,2,science,0.26959443688392637
+internal,rand_pair,Your random-pair,strong,8,2,0.05,512,3,music,0.2523171424865723
+internal,rand_pair,Your random-pair,strong,8,2,0.05,512,4,weather,0.301704454421997
+internal,rand_pair,Your random-pair,strong,8,2,0.05,512,5,food,0.1805985271930694

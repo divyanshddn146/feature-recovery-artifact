@@ -1,0 +1,241 @@
+source,condition,condition_label,direction_group,layer,seed,signal_scale,sae_latents,concept_id,concept,allocation_score
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,0,random_0,0.13472216427326197
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,1,random_1,0.12548277080059048
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,2,random_2,0.12283518016338343
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,3,random_3,0.12353028059005733
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,4,random_4,0.12296263575553887
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,5,random_5,0.14548199772834775
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,6,random_6,0.13530666828155513
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,7,random_7,0.1255308628082275
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,8,random_8,0.125277791917324
+internal,std_L1,Your L1 mixed,random,10,0,0.05,2048,9,random_9,0.11894359886646269
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,0,random_0,0.12640658915042874
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,1,random_1,0.11606072783470149
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,2,random_2,0.14534817636013025
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,3,random_3,0.14243727624416347
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,4,random_4,0.13458108901977534
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,5,random_5,0.12097912430763243
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,6,random_6,0.13862175345420835
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,7,random_7,0.1177497804164886
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,8,random_8,0.1278384029865265
+internal,topK20,Your TopK mixed,random,10,0,0.05,2048,9,random_9,0.14053111076354977
+internal,delta,Your paired delta,random,10,0,0.05,2048,0,random_0,0.6333625674247741
+internal,delta,Your paired delta,random,10,0,0.05,2048,1,random_1,0.5796788215637207
+internal,delta,Your paired delta,random,10,0,0.05,2048,2,random_2,0.5418742179870606
+internal,delta,Your paired delta,random,10,0,0.05,2048,3,random_3,0.5781023859977722
+internal,delta,Your paired delta,random,10,0,0.05,2048,4,random_4,0.49341681599617004
+internal,delta,Your paired delta,random,10,0,0.05,2048,5,random_5,0.4844497084617615
+internal,delta,Your paired delta,random,10,0,0.05,2048,6,random_6,0.5538415551185608
+internal,delta,Your paired delta,random,10,0,0.05,2048,7,random_7,0.6479527950286865
+internal,delta,Your paired delta,random,10,0,0.05,2048,8,random_8,0.528370451927185
+internal,delta,Your paired delta,random,10,0,0.05,2048,9,random_9,0.589312756061554
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,0,random_0,0.12575062066316597
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,1,random_1,0.1295051664113998
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,2,random_2,0.14394527673721308
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,3,random_3,0.13212454319000239
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,4,random_4,0.14161030650138853
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,5,random_5,0.12110942900180813
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,6,random_6,0.12690590918064112
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,7,random_7,0.14732183516025538
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,8,random_8,0.11805533915758129
+internal,rand_pair,Your random-pair,random,10,0,0.05,2048,9,random_9,0.13480331003665919
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,0,random_0,0.12011052221059795
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,1,random_1,0.11721732318401332
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,2,random_2,0.09531374573707577
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,3,random_3,0.10894568115472789
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,4,random_4,0.12225196957588189
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,5,random_5,0.10625731796026225
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,6,random_6,0.12211229354143141
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,7,random_7,0.13389548063278195
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,8,random_8,0.1406999230384826
+internal,std_L1,Your L1 mixed,random,10,0,0.05,512,9,random_9,0.11690579503774638
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,0,random_0,0.1132235005497932
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,1,random_1,0.12319638878107068
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,2,random_2,0.1116647869348526
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,3,random_3,0.11713083833456035
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,4,random_4,0.1094956040382385
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,5,random_5,0.10035232454538341
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,6,random_6,0.1287711530923843
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,7,random_7,0.11468532085418695
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,8,random_8,0.1027009412646293
+internal,topK20,Your TopK mixed,random,10,0,0.05,512,9,random_9,0.12409678846597667
+internal,delta,Your paired delta,random,10,0,0.05,512,0,random_0,0.9311280488967896
+internal,delta,Your paired delta,random,10,0,0.05,512,1,random_1,0.9420087695121765
+internal,delta,Your paired delta,random,10,0,0.05,512,2,random_2,0.9417472362518311
+internal,delta,Your paired delta,random,10,0,0.05,512,3,random_3,0.9602148652076721
+internal,delta,Your paired delta,random,10,0,0.05,512,4,random_4,0.9999516487121582
+internal,delta,Your paired delta,random,10,0,0.05,512,5,random_5,0.9344998955726623
+internal,delta,Your paired delta,random,10,0,0.05,512,6,random_6,0.9850961923599243
+internal,delta,Your paired delta,random,10,0,0.05,512,7,random_7,0.9835596561431885
+internal,delta,Your paired delta,random,10,0,0.05,512,8,random_8,0.9886201381683349
+internal,delta,Your paired delta,random,10,0,0.05,512,9,random_9,0.9474881529808045
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,0,random_0,0.10671145617961879
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,1,random_1,0.11572956740856163
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,2,random_2,0.11498254090547558
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,3,random_3,0.13054463565349575
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,4,random_4,0.1250577718019485
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,5,random_5,0.10479677766561504
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,6,random_6,0.10511647015810008
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,7,random_7,0.11616662740707392
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,8,random_8,0.10574178546667094
+internal,rand_pair,Your random-pair,random,10,0,0.05,512,9,random_9,0.11677179336547847
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,0,random_0,0.12035495340824123
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,1,random_1,0.1304492264986038
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,2,random_2,0.14693814218044277
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,3,random_3,0.1570808261632919
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,4,random_4,0.12994811534881587
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,5,random_5,0.11687748730182641
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,6,random_6,0.1309593945741653
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,7,random_7,0.13164741694927212
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,8,random_8,0.13647084832191464
+internal,std_L1,Your L1 mixed,random,10,1,0.05,2048,9,random_9,0.13168636560440058
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,0,random_0,0.1397807449102401
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,1,random_1,0.1361128538846969
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,2,random_2,0.1134619936347007
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,3,random_3,0.1500402420759201
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,4,random_4,0.12757712006568905
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,5,random_5,0.1415756493806839
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,6,random_6,0.1225245475769043
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,7,random_7,0.12006856054067612
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,8,random_8,0.12166812121868127
+internal,topK20,Your TopK mixed,random,10,1,0.05,2048,9,random_9,0.1229635894298553
+internal,delta,Your paired delta,random,10,1,0.05,2048,0,random_0,0.5046105504035949
+internal,delta,Your paired delta,random,10,1,0.05,2048,1,random_1,0.49733505249023435
+internal,delta,Your paired delta,random,10,1,0.05,2048,2,random_2,0.569036853313446
+internal,delta,Your paired delta,random,10,1,0.05,2048,3,random_3,0.5498383283615113
+internal,delta,Your paired delta,random,10,1,0.05,2048,4,random_4,0.48628644943237304
+internal,delta,Your paired delta,random,10,1,0.05,2048,5,random_5,0.48686243295669557
+internal,delta,Your paired delta,random,10,1,0.05,2048,6,random_6,0.4954921007156372
+internal,delta,Your paired delta,random,10,1,0.05,2048,7,random_7,0.533327829837799
+internal,delta,Your paired delta,random,10,1,0.05,2048,8,random_8,0.5699675798416137
+internal,delta,Your paired delta,random,10,1,0.05,2048,9,random_9,0.5528070211410523
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,0,random_0,0.14701725840568539
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,1,random_1,0.12250763177871701
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,2,random_2,0.12776362597942345
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,3,random_3,0.12894845902919766
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,4,random_4,0.13119049072265623
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,5,random_5,0.11913417279720302
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,6,random_6,0.12542390227317807
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,7,random_7,0.1274171859025955
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,8,random_8,0.13018273711204525
+internal,rand_pair,Your random-pair,random,10,1,0.05,2048,9,random_9,0.12682932615280149
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,0,random_0,0.09793382138013837
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,1,random_1,0.11860530823469155
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,2,random_2,0.12523267269134516
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,3,random_3,0.12037206441164013
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,4,random_4,0.12653401196002959
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,5,random_5,0.09373539090156549
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,6,random_6,0.13979198634624476
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,7,random_7,0.09711937755346292
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,8,random_8,0.11829383373260494
+internal,std_L1,Your L1 mixed,random,10,1,0.05,512,9,random_9,0.11407271027564996
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,0,random_0,0.14849244058132166
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,1,random_1,0.11662057787179943
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,2,random_2,0.10897881090641018
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,3,random_3,0.148465695977211
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,4,random_4,0.1166747838258743
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,5,random_5,0.10891101062297817
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,6,random_6,0.12427216619253154
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,7,random_7,0.11365909874439235
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,8,random_8,0.1168929263949394
+internal,topK20,Your TopK mixed,random,10,1,0.05,512,9,random_9,0.10940476506948467
+internal,delta,Your paired delta,random,10,1,0.05,512,0,random_0,0.9551141262054443
+internal,delta,Your paired delta,random,10,1,0.05,512,1,random_1,0.98125661611557
+internal,delta,Your paired delta,random,10,1,0.05,512,2,random_2,0.9432133555412292
+internal,delta,Your paired delta,random,10,1,0.05,512,3,random_3,0.9334143042564392
+internal,delta,Your paired delta,random,10,1,0.05,512,4,random_4,0.9851959228515625
+internal,delta,Your paired delta,random,10,1,0.05,512,5,random_5,0.9504741668701172
+internal,delta,Your paired delta,random,10,1,0.05,512,6,random_6,0.9716850042343139
+internal,delta,Your paired delta,random,10,1,0.05,512,7,random_7,0.9699638962745667
+internal,delta,Your paired delta,random,10,1,0.05,512,8,random_8,0.9867938399314881
+internal,delta,Your paired delta,random,10,1,0.05,512,9,random_9,0.9239032983779907
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,0,random_0,0.12960554063320157
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,1,random_1,0.13244187533855437
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,2,random_2,0.09601985216140743
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,3,random_3,0.13156855106353754
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,4,random_4,0.09843402057886118
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,5,random_5,0.09055161774158473
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,6,random_6,0.12399027347564695
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,7,random_7,0.1288186609745025
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,8,random_8,0.10530664920806879
+internal,rand_pair,Your random-pair,random,10,1,0.05,512,9,random_9,0.11444448977708813
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,0,random_0,0.13011068403720855
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,1,random_1,0.1241255864500999
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,2,random_2,0.11919774115085598
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,3,random_3,0.14131900370120998
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,4,random_4,0.14702167510986325
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,5,random_5,0.11845668554306026
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,6,random_6,0.12908770442008968
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,7,random_7,0.1323714345693588
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,8,random_8,0.1204298615455627
+internal,std_L1,Your L1 mixed,random,10,2,0.05,2048,9,random_9,0.13189255297183988
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,0,random_0,0.1327694803476333
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,1,random_1,0.12539126873016354
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,2,random_2,0.12316573113203041
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,3,random_3,0.128958785533905
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,4,random_4,0.1342069268226623
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,5,random_5,0.1291469037532806
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,6,random_6,0.11609641760587688
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,7,random_7,0.10836145579814908
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,8,random_8,0.13705717027187347
+internal,topK20,Your TopK mixed,random,10,2,0.05,2048,9,random_9,0.1458176225423813
+internal,delta,Your paired delta,random,10,2,0.05,2048,0,random_0,0.47025238871574404
+internal,delta,Your paired delta,random,10,2,0.05,2048,1,random_1,0.5769062876701355
+internal,delta,Your paired delta,random,10,2,0.05,2048,2,random_2,0.5839977025985718
+internal,delta,Your paired delta,random,10,2,0.05,2048,3,random_3,0.5563054800033569
+internal,delta,Your paired delta,random,10,2,0.05,2048,4,random_4,0.5012873530387878
+internal,delta,Your paired delta,random,10,2,0.05,2048,5,random_5,0.5438338041305542
+internal,delta,Your paired delta,random,10,2,0.05,2048,6,random_6,0.5488043069839478
+internal,delta,Your paired delta,random,10,2,0.05,2048,7,random_7,0.48031545281410215
+internal,delta,Your paired delta,random,10,2,0.05,2048,8,random_8,0.6631577253341675
+internal,delta,Your paired delta,random,10,2,0.05,2048,9,random_9,0.5809654831886292
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,0,random_0,0.1270303815603256
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,1,random_1,0.1300669640302658
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,2,random_2,0.1274253189563751
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,3,random_3,0.15392710268497467
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,4,random_4,0.12444150447845455
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,5,random_5,0.11799628287553784
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,6,random_6,0.11728636771440501
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,7,random_7,0.12203893512487407
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,8,random_8,0.13232237994670865
+internal,rand_pair,Your random-pair,random,10,2,0.05,2048,9,random_9,0.16215474307537076
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,0,random_0,0.10142085552215571
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,1,random_1,0.11718592643737788
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,2,random_2,0.11875623613595958
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,3,random_3,0.107360428571701
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,4,random_4,0.1324432343244552
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,5,random_5,0.09003751873970026
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,6,random_6,0.12639199197292322
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,7,random_7,0.09755634367465968
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,8,random_8,0.10530136525630947
+internal,std_L1,Your L1 mixed,random,10,2,0.05,512,9,random_9,0.11690904349088664
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,0,random_0,0.1388420909643173
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,1,random_1,0.11221662014722822
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,2,random_2,0.10763013064861293
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,3,random_3,0.11907239705324169
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,4,random_4,0.1132910102605819
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,5,random_5,0.13152210414409635
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,6,random_6,0.1207357734441757
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,7,random_7,0.11610475331544871
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,8,random_8,0.1168214306235313
+internal,topK20,Your TopK mixed,random,10,2,0.05,512,9,random_9,0.11024255305528638
+internal,delta,Your paired delta,random,10,2,0.05,512,0,random_0,0.9686394572257996
+internal,delta,Your paired delta,random,10,2,0.05,512,1,random_1,0.9349831581115723
+internal,delta,Your paired delta,random,10,2,0.05,512,2,random_2,0.9852193355560303
+internal,delta,Your paired delta,random,10,2,0.05,512,3,random_3,0.9635392904281617
+internal,delta,Your paired delta,random,10,2,0.05,512,4,random_4,0.989999508857727
+internal,delta,Your paired delta,random,10,2,0.05,512,5,random_5,0.9999562740325928
+internal,delta,Your paired delta,random,10,2,0.05,512,6,random_6,0.9110775709152221
+internal,delta,Your paired delta,random,10,2,0.05,512,7,random_7,0.97934650182724
+internal,delta,Your paired delta,random,10,2,0.05,512,8,random_8,0.9841772794723511
+internal,delta,Your paired delta,random,10,2,0.05,512,9,random_9,0.9418563365936279
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,0,random_0,0.11008936762809747
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,1,random_1,0.13670828640460964
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,2,random_2,0.09986746311187741
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,3,random_3,0.1275240689516067
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,4,random_4,0.1305818885564804
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,5,random_5,0.09501878470182415
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,6,random_6,0.11378636658191676
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,7,random_7,0.10383357554674141
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,8,random_8,0.0928792297840118
+internal,rand_pair,Your random-pair,random,10,2,0.05,512,9,random_9,0.13328188359737392

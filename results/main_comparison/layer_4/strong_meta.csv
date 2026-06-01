@@ -1,0 +1,7 @@
+direction_group,concept_id,target,baseline,domain,snr,raw_direction_norm
+strong,0,sports,ordinary topic,common_baseline,3.734,24.485713958740234
+strong,1,technology,ordinary topic,common_baseline,3.602,19.02239990234375
+strong,2,science,ordinary topic,common_baseline,3.576,19.551931381225586
+strong,3,music,ordinary topic,common_baseline,3.615,20.734283447265625
+strong,4,weather,ordinary topic,common_baseline,3.662,22.67181396484375
+strong,5,food,ordinary topic,common_baseline,3.682,21.90018653869629

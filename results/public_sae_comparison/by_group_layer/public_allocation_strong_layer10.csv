@@ -1,0 +1,7 @@
+source,condition,condition_label,direction_group,layer,public_sae_id,concept_id,concept,allocation_score,best_public_latent
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,0,sports,0.41105157136917114,11424
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,1,technology,0.49090468883514404,17290
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,2,science,0.6191614270210266,6000
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,3,music,0.6191049218177795,9020
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,4,weather,0.5470643639564514,3331
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,5,food,0.6938856840133667,7851

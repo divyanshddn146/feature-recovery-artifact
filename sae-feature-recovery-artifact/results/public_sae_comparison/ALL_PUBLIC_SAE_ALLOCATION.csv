@@ -1,0 +1,79 @@
+source,condition,condition_label,direction_group,layer,public_sae_id,concept_id,concept,allocation_score,best_public_latent
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,0,exacerbate,0.35426223278045654,2968
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,1,mitigate,0.3196146786212921,14137
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,2,ameliorate,0.3207930326461792,11910
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,3,Redis,0.4169234335422516,4754
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,4,Kubernetes,0.30579236149787903,24484
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,5,arbitrage,0.3222242295742035,2093
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,6,PostgreSQL,0.3552088141441345,8402
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,7,metaphor about memory loss,0.38033923506736755,7254
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,8,telomerase,0.25526025891304016,6752
+public_sae,public_sae,Public JB SAE,weak,4,blocks.5.hook_resid_pre,9,regret about financial decisions,0.35413873195648193,13824
+public_sae,public_sae,Public JB SAE,strong,4,blocks.5.hook_resid_pre,0,sports,0.5476490259170532,10567
+public_sae,public_sae,Public JB SAE,strong,4,blocks.5.hook_resid_pre,1,technology,0.5278722047805786,4683
+public_sae,public_sae,Public JB SAE,strong,4,blocks.5.hook_resid_pre,2,science,0.45291343331336975,17886
+public_sae,public_sae,Public JB SAE,strong,4,blocks.5.hook_resid_pre,3,music,0.5296947956085205,18664
+public_sae,public_sae,Public JB SAE,strong,4,blocks.5.hook_resid_pre,4,weather,0.44189968705177307,19631
+public_sae,public_sae,Public JB SAE,strong,4,blocks.5.hook_resid_pre,5,food,0.5224407315254211,11197
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,0,random_0,0.15127916634082794,21738
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,1,random_1,0.14644591510295868,17379
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,2,random_2,0.1699812114238739,22937
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,3,random_3,0.140154629945755,12105
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,4,random_4,0.1548762321472168,22631
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,5,random_5,0.1467593014240265,2007
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,6,random_6,0.1418832242488861,6242
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,7,random_7,0.13902318477630615,13700
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,8,random_8,0.1394423395395279,23040
+public_sae,public_sae,Public JB SAE,random,4,blocks.5.hook_resid_pre,9,random_9,0.15032002329826355,21771
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,0,exacerbate,0.36695390939712524,637
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,1,mitigate,0.279350221157074,16023
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,2,ameliorate,0.2922486662864685,1552
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,3,Redis,0.3035065233707428,11438
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,4,Kubernetes,0.31895312666893005,6574
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,5,arbitrage,0.30235254764556885,5212
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,6,PostgreSQL,0.22867578268051147,3689
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,7,metaphor about memory loss,0.2744525372982025,7719
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,8,telomerase,0.18662631511688232,11226
+public_sae,public_sae,Public JB SAE,weak,8,blocks.9.hook_resid_pre,9,regret about financial decisions,0.22457975149154663,16329
+public_sae,public_sae,Public JB SAE,strong,8,blocks.9.hook_resid_pre,0,sports,0.32149866223335266,10059
+public_sae,public_sae,Public JB SAE,strong,8,blocks.9.hook_resid_pre,1,technology,0.33884838223457336,10364
+public_sae,public_sae,Public JB SAE,strong,8,blocks.9.hook_resid_pre,2,science,0.25755563378334045,8202
+public_sae,public_sae,Public JB SAE,strong,8,blocks.9.hook_resid_pre,3,music,0.3710038661956787,13334
+public_sae,public_sae,Public JB SAE,strong,8,blocks.9.hook_resid_pre,4,weather,0.4563028812408447,1350
+public_sae,public_sae,Public JB SAE,strong,8,blocks.9.hook_resid_pre,5,food,0.42617282271385193,16064
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,0,random_0,0.16601455211639404,24161
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,1,random_1,0.13612565398216248,16108
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,2,random_2,0.13936005532741547,21411
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,3,random_3,0.15039560198783875,19190
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,4,random_4,0.15031486749649048,2634
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,5,random_5,0.15343207120895386,16643
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,6,random_6,0.1462426483631134,3219
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,7,random_7,0.1785077154636383,4493
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,8,random_8,0.14941923320293427,12012
+public_sae,public_sae,Public JB SAE,random,8,blocks.9.hook_resid_pre,9,random_9,0.13943630456924438,18126
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,0,exacerbate,0.32481831312179565,3913
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,1,mitigate,0.3053814768791199,22664
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,2,ameliorate,0.3632275462150574,5913
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,3,Redis,0.4670580327510834,18520
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,4,Kubernetes,0.2674401104450226,11012
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,5,arbitrage,0.2780004143714905,9412
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,6,PostgreSQL,0.4235491156578064,20725
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,7,metaphor about memory loss,0.5553686022758484,15248
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,8,telomerase,0.336100697517395,3091
+public_sae,public_sae,Public JB SAE,weak,10,blocks.11.hook_resid_pre,9,regret about financial decisions,0.32966628670692444,1476
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,0,sports,0.41105157136917114,11424
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,1,technology,0.49090468883514404,17290
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,2,science,0.6191614270210266,6000
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,3,music,0.6191049218177795,9020
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,4,weather,0.5470643639564514,3331
+public_sae,public_sae,Public JB SAE,strong,10,blocks.11.hook_resid_pre,5,food,0.6938856840133667,7851
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,0,random_0,0.1437648981809616,907
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,1,random_1,0.12695135176181793,22870
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,2,random_2,0.14747245609760284,11057
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,3,random_3,0.14271898567676544,15567
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,4,random_4,0.14272752404212952,1392
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,5,random_5,0.16203708946704865,11417
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,6,random_6,0.14660726487636566,4579
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,7,random_7,0.1319376677274704,23317
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,8,random_8,0.13970397412776947,4434
+public_sae,public_sae,Public JB SAE,random,10,blocks.11.hook_resid_pre,9,random_9,0.1395283341407776,10449
